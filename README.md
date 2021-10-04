@@ -3,7 +3,7 @@ This repository contains the scripts to automatically run the latest versions of
 
 Update the paths to your installed system directory.
 
-##Using cases
+## Use cases
 
 Run the 2D systems AlphaPose and OpenPose to a single video
 *Update the file name in the script
