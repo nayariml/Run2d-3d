@@ -25,7 +25,9 @@ python3 trackers.py
 
 ## References
 
-@akanazawa
-[Human dynamics](https://github.com/akanazawa/human_dynamics), and
-[Motion Reconstruction](https://github.com/akanazawa/motion_reconstruction)
+@akanazawa:
+
+  [Human dynamics](https://github.com/akanazawa/human_dynamics)
+
+  [Motion Reconstruction](https://github.com/akanazawa/motion_reconstruction)
 
