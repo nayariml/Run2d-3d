@@ -1,7 +1,7 @@
 # Run2d-3d
 This repository contains the scripts to automatically run the latest versions of [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose), [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) and [Hmmr](https://github.com/nayariml/human_dynamics) systems from prompt.
 
-Update the paths to your installed system directory.
+Update the paths to your installed systems directories.
 
 ## Use cases
 
