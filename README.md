@@ -16,4 +16,16 @@ python3 runOPAL.py --vid
 
 Run the 3D system HMMR
 
-python3 runHmmr.py (coming soon)
+python3 runHmmr.py 
+
+2D tracker to OpenPose and AlphaPose with/without PoseFlow
+*may have problems in crowded scenes
+
+python3 trackers.py
+
+## References
+
+@akanazawa
+[Human dynamics](https://github.com/akanazawa/human_dynamics)
+[Motion Reconstruction](https://github.com/akanazawa/motion_reconstruction)
+
