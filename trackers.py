@@ -1,5 +1,7 @@
 """ This code contains the 2D tracker to OpenPose and AlphaPose.
 
+    This code contains code developed by @akanazawa, projects Human dynamics and Motion Reconstruction
+
     @nayariml
     Update: 09/28/2021
 
