@@ -5,23 +5,24 @@ Update the paths to your installed systems directories.
 
 ## Use cases
 
-Run the 2D systems AlphaPose and OpenPose to a single video
-*Update the file name in the script
+ Run the 2D systems AlphaPose and OpenPose to a single video
+  *Update the file name in the script
 
-python3 runOPAL.py
+  python3 runOPAL.py
+
+ Run the 3D system HMMR
+
+  python3 runHmmr.py 
 
 For a list of videos
 
-python3 runOPAL.py --vid
-
-Run the 3D system HMMR
-
-python3 runHmmr.py 
-
+  python3 runOPAL.py --vid
+  python3 runHmmr.py --vid
+  
 2D tracker to OpenPose and AlphaPose with/without PoseFlow
-*may have problems in crowded scenes
+  *may have problems in crowded scenes
 
-python3 trackers.py
+  python3 trackers.py
 
 ## References
 
